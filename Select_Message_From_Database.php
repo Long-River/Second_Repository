@@ -41,6 +41,7 @@
          }  
          echo urldecode (json_encode( $testJSON ));
          //测试
+         //鸡血石
 
 
   			// echo "昵称:".$row['niCheng'];

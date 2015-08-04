@@ -40,7 +40,7 @@
             $testJSON[$key] = urlencode ( $value );
          }  
          echo urldecode (json_encode( $testJSON ));
-
+         //测试
 
 
   			// echo "昵称:".$row['niCheng'];
